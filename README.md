@@ -1,1 +1,1 @@
-# digital-energy-web-interface
+# Digital Energy Web Interface
